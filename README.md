@@ -9,8 +9,8 @@
 ## Usage 
 
 ### BaseStage Training
-Open the directory "ReliDispProto/BaseStage", and run the python file "train_demo.py". 
-The saved model are in the directory "ReliDispProto/BaseStage/checkpoint/". 
+Open the directory "GA-Proto/BaseStage", and run the python file "train_demo.py". 
+The saved model are in the directory "GA-Proto/BaseStage/checkpoint/". 
 The specific commands and several important hyper-parameters are as follows:
 
 ```bash
@@ -18,8 +18,8 @@ The specific commands and several important hyper-parameters are as follows:
 ```
 
 ### StreamingSession Training 
-Open the directory "ReliDispProto/StreamingSession", and run the python file "train_demo.py". 
-The saved model are in the directory "ReliDispProto/StreamingSessioncheckpoint/". 
+Open the directory "GA-Proto/StreamingSession", and run the python file "train_demo.py". 
+The saved model are in the directory "GA-Proto/StreamingSessioncheckpoint/". 
 The specific commands and several important hyper-parameters are as follows:
 
 ```bash
